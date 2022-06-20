@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_200">#E3E0E0</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+
+<!--    block colors-->
+    <color name="green_block">#ff78a852</color>
+    <color name="teal_block">#ff4574c3</color>
+    <color name="orange_block">#ffed7f33</color>
+    <color name="light_blue_block">#ff09f9f8</color>
+    <color name="red_block">#ffff0001</color>
+    <color name="purple_block">#ff7130a1</color>
+    <color name="yellow_block">#fffec100</color>
+
+<!--    button colors-->
+    <color name="button_red_start">#F48686</color>
+    <color name="button_red_center">#FA6F6F</color>
+    <color name="button_red_end">#FA0C0C</color>
+
+    <color name="button_orange_start">#FAB46A</color>
+    <color name="button_orange_center">#FAA74F</color>
+    <color name="button_orange_end">#FA570C</color>
+
+    <color name="button_yellow_start">#FBEE72</color>
+    <color name="button_yellow_center">#F3C82C</color>
+    <color name="button_yellow_end">#ED9906</color>
+
+    <color name="button_blue_start">#7ED7F3</color>
+    <color name="button_blue_center">#58ACF6</color>
+    <color name="button_blue_end">#1565DC</color>
+
+    <color name="button_green_start">#7CE18D</color>
+    <color name="button_green_center">#56D567</color>
+    <color name="button_green_end">#35B819</color>
+
+    <color name="button_purple_start">#D870D6</color>
+    <color name="button_purple_center">#B542B3</color>
+    <color name="button_purple_end">#7A118C</color>
+
+</resources>
